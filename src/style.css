@@ -1,0 +1,13 @@
+#content img {
+    background: url('restaurant.jpeg');
+}
+
+#content {
+    text-align: center;
+}
+
+.button-container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
